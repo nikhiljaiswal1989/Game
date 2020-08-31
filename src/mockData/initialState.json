@@ -1,0 +1,12 @@
+{
+  "cardObjectArray": [
+    { "isMatchFound": false, "isOpen": false, "text": 60 },
+    { "isMatchFound": false, "isOpen": false, "text": 60 },
+    { "isMatchFound": false, "isOpen": false, "text": 74 },
+    { "isMatchFound": true, "isOpen": false, "text": 56 },
+    { "isMatchFound": false, "isOpen": false, "text": 56 },
+    { "isMatchFound": false, "isOpen": false, "text": 74 }
+  ],
+  "clickedIndexArray": [],
+  "counter": 0
+}
